@@ -1,0 +1,84 @@
+h1 {
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  width:75%;
+}
+
+th, td {
+  padding: 8px;
+}
+
+tr:nth-child(even){
+	background-color: #f2f2f2
+}
+
+th {
+  background-color: #04AA6D;
+  color: white;
+}
+
+
+td a:link {
+  color: #000080;
+  font-weight: bold;
+ }
+td a:visited {
+  color: #000080;
+  font-weight: bold;
+ }
+
+ 
+#search table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+#search table,th,td {
+  border: 1px solid black;
+}
+
+#search th,td {
+  padding: 8px;
+}
+
+#search th {
+  background-color: #f2f2f2;
+}
+
+#search form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#search input[type="text"], select {
+  margin-bottom: 10px;
+  padding: 5px;
+  width: 80px;
+}
+ input[type="submit"] {
+  padding: 8px 20px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+#search input[type="submit"]:hover {
+    opacity: 0.8;
+}
+
+#insert input[type="text"], #insert input:focus {
+	border: none;
+}
+
+#insert tr:nth-child(even){
+	background-color: white;
+}
+#insert td:nth-child(odd) div {
+    width: 80px;
+ }
