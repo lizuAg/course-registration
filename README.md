@@ -1,6 +1,6 @@
 ## 주제
 
-데이터베이스 프로그래밍 실습 프로젝트로 3인이 구현한 간단한 수강신청 사이트
+2023년 1학기 데이터베이스 프로그래밍 실습 프로젝트로 3인이 구현한 간단한 수강신청 사이트
 
 ## 개발 언어 및 환경
 
@@ -42,3 +42,12 @@ Date2EnrollYear, Date2EnrollSemester (수강신청할 연도, 학기 알아내�
 ### 3. trigger
 
 BeforeUpdateStudent(사용자 정보 수정) : 패스워드 자릿수 예외처리
+
+
+
+## 스크린샷
+
+|![image](https://github.com/lizuAg/course-registration/assets/68546023/59f9c33f-28d2-4855-9ee0-2ebd33d2f5ab)|![image](https://github.com/lizuAg/course-registration/assets/68546023/7262f8bc-d811-4bc8-83f0-52e9916c742a)|
+|------|---|
+|![image](https://github.com/lizuAg/course-registration/assets/68546023/c7d3422b-ef95-4a1a-88b4-1f371c706710)|![image](https://github.com/lizuAg/course-registration/assets/68546023/85e657c3-71a8-4e25-8bfd-a0240458ec24)
+|
